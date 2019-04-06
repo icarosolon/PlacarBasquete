@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Basquete</string>
+    <string name="time_a">Time A</string>
+    <string name="time_b">Time B</string>
+    <string name="reiniciar_partida">Reiniciar Partida</string>
+    <string name="tiro_livre">Tiro Livre</string>
+    <string name="dois_pontos">+2 pontos</string>
+    <string name="tres_pontos">+3 pontos</string>
+</resources>
